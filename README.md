@@ -17,7 +17,13 @@
 </div>
 
 A Jordanian Cyber Security student and Red Team practitioner. I explore vulnerabilities, analyze systems, and build tools that support offensive and defensive security.
-  
+
+
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=A7_GD"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20On%20My%20Profile;&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
+
 
 
 <div align="center">
@@ -40,12 +46,15 @@ A Jordanian Cyber Security student and Red Team practitioner. I explore vulnerab
 
 
 ## Technology Stack
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,dotnet,docker,html,css,js,git,mysql,linux,php,python,bash&perline=7" style="height:113px;"/>
+</p>
 
 ## Tools
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>  
+<p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github&perline=7" style="height:50px;"/>
+</p>
 
 <div align="center">
   
@@ -64,5 +73,6 @@ A Jordanian Cyber Security student and Red Team practitioner. I explore vulnerab
   <a href="LICENSE"><img src="https://custom-icon-badges.demolab.com/github/license/FajarKim/github-readme-profile?label=License&labelColor=302d41&color=91d7e3&logo=law&logoColor=d9e0ee&style=for-the-badge" alt="GitHub Readme Profile License"></a>
 </div>
 
+![Snake Animation](https://github.com/ahmaddahb36/ahmaddahb36/blob/output/snake-dark.svg)
 
 
